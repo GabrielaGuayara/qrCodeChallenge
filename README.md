@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/GabrielaGuayara/qrCodeChallenge)
-- Live Site URL: [Add live site URL here](https://qrchallenge-gabrielaguayara.netlify.app/)
+- Solution URL: [Solution URL](https://github.com/GabrielaGuayara/qrCodeChallenge)
+- Live Site URL: [Website URL](https://qrchallenge-gabrielaguayara.netlify.app/)
 
 ## My process
 
@@ -48,5 +48,5 @@ body{
 
 ## Author
 Gabriela Guayara
-- Website - [Add your name here](https://qrchallenge-gabrielaguayara.netlify.app/)
+- Website - [QR Code Challenge](https://qrchallenge-gabrielaguayara.netlify.app/)
 
